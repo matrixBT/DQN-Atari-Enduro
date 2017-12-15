@@ -1,7 +1,15 @@
 # DQN-Atari-Enduro
 Re-implementation of DQN [Deepmind] for Enduro-v0 (Atari)
 
+|![Enduro-v0](https://user-images.githubusercontent.com/13565940/34045657-d90dc702-e1cf-11e7-8a4e-6dbbb5e5d438.png)|
+|:--:| 
+| *Enduro-v0* |
+|![Enduro_completed](https://user-images.githubusercontent.com/13565940/34045656-d8ddb33c-e1cf-11e7-9c22-c230a6440976.png)|
+|:--:| 
+| *After_Learning* |
+
 **Reference**: Human-level control through deep reinforcement learning, Nature 518, 529–533 (26 February 2015) doi:10.1038/nature14236
+
 
 ## Requirements:
 
